@@ -10,5 +10,5 @@
 
 export const environment = {
   production: false,
-  api_gateway: "https://127.0.0.1:7777"
+  url_gateway: "https://127.0.0.1:7777"
 };
